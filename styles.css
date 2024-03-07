@@ -13,6 +13,10 @@ body {
     border-color: #366ccb;
 }
 
+.form-control:invalid:focus {
+    box-shadow: none !important;
+}
+
 .btn-primary {
     background-color: #366ccb;
 }
